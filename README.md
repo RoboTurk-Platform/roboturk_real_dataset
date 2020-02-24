@@ -32,6 +32,15 @@ The code is tested with Python 3.6.
 
 We have outlined a more detailed wiki page with associated code blocks here that can help you parse the dataset and documents the video prediction pipeline: https://github.com/StanfordVL/roboturk_real_dataset/wiki
 
+## Video Prediction Metrics
+
+We show that video prediction metrics of our reproduced SV2P results on BAIR, SawyerLaundryLayout and SawyerTowerCreation. The orange line indicates the number of frames that were predicted on during training, matching the hyperparameters of the original SV2P paper.
+
+![SV2P SSIM](https://github.com/StanfordVL/roboturk_real_dataset/images/sv2p_ssim.png)
+
+![SV2P PSNR](https://github.com/StanfordVL/roboturk_real_dataset/images/sv2p_psnr.png)
+
+
 ## License
 
 This dataset and codebase are released under the MIT License.
