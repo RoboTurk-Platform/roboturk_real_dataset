@@ -36,9 +36,7 @@ We have outlined a more detailed wiki page with associated code blocks here that
 
 We show that video prediction metrics of our reproduced SV2P results on BAIR, SawyerLaundryLayout and SawyerTowerCreation. The orange line indicates the number of frames that were predicted on during training, matching the hyperparameters of the original SV2P paper.
 
-![SV2P SSIM](https://github.com/StanfordVL/roboturk_real_dataset/images/sv2p_ssim.png)
-
-![SV2P PSNR](https://github.com/StanfordVL/roboturk_real_dataset/images/sv2p_psnr.png)
+<img src= "https://github.com/StanfordVL/roboturk_real_dataset/blob/master/images/sv2p_ssim.png" width="400"> <img src= "https://github.com/StanfordVL/roboturk_real_dataset/blob/master/images/sv2p_psnr.png" width="400">
 
 
 ## License
