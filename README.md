@@ -1,11 +1,11 @@
 # Scaling Robot Supervision to Hundreds of Hours with RoboTurk: Robotic Manipulation Dataset through Human Reasoning and Dexterity
 
-Created by [PAIR Group](http://pair.stanford.edu/) from Stanford University
+For more information, see the [RoboTurk Project](http://roboturk.stanford.edu/) from Stanford University
 
 
 ## Introduction
 
-This library provides scripts to parse the HDF5 file and aligned with the videos in the video directory. We also provide scripts to process and split the dataset for video prediction (SV2P: [https://arxiv.org/abs/1710.11252]) along with the necessary changes needed in tensor2tensor to match the hyperparameters in the original paper.
+This library provides scripts to parse the HDF5 file and aligned with the videos in the video directory. We also provide scripts to process and split the dataset for video prediction [SV2P](https://arxiv.org/abs/1710.11252) along with the necessary changes needed in tensor2tensor to match the hyperparameters in the original paper.
 
 ## Citation
 
@@ -24,7 +24,7 @@ If you find our work useful in your research, please consider citing:
 
 ## Installation
 
-[Tensorflow](https://github.com/tensorflow/tensorflow) and [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor). It is required that you have access to GPUs to train. We will also provide a virtual environment installation package.
+[Tensorflow](https://github.com/tensorflow/tensorflow) and [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor). It is required that you have access to GPUs to train. We will also provide a `requirements.txt` file for installing a python virtual environment with the required dependencies.
 
 The code is tested with Python 3.6.
 
