@@ -43,5 +43,9 @@ We show that video prediction metrics of our reproduced SV2P results on BAIR, Sa
 
 This dataset and codebase are released under the MIT License.
 
+## Acknowledgements
+
+Thanks to Suraj Nair for assistance with the SV2P Tensor2Tensor code setup.
+
 ## Change Log
 
