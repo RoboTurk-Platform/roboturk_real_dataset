@@ -51,7 +51,7 @@ idna==2.9
 image-geometry==1.12.8
 interactive-markers==1.11.4
 itsdangerous==1.1.0
-Jinja2==2.11.1
+Jinja2==2.11.3
 jsk-data==2.2.10
 jsk-network-tools==2.2.10
 jsk-recognition-utils==1.2.9
