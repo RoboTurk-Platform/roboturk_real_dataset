@@ -67,7 +67,7 @@ MarkupSafe==1.1.1
 mesh-tensorflow==0.1.10
 message-filters==1.12.14
 mpmath==1.1.0
-numpy==1.18.1
+numpy==1.22.0
 oauth2client==4.1.3
 opencv-python==4.2.0.32
 openni2-launch==0.4.2
